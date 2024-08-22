@@ -25,6 +25,13 @@ body{
     background-color:  rgb(42, 47, 51);
 }
 
+.iconsProject{
+    color: white;
+    transition: color 0.5s ease;
+}
+.iconsProject:hover{
+    color: rgb(58, 61, 65);
+}
 
 .tecnologias{
     color: white;
