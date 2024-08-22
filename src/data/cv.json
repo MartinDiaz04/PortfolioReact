@@ -34,7 +34,7 @@
         "isActive": true,
         "description": "Blog de Cafe",
         "highlights":[
-          "Diseño Web",
+          "HTML",
           "JavaScript",
           "CSS"
         ],
@@ -47,7 +47,7 @@
         "isActive": true,
         "description": "Aplicación móvil para contar calorías",
         "highlights":[
-          "Aplicacion Movil",
+          "Android",
           "JavaScript",
           "Ionic"
         ],
@@ -60,8 +60,9 @@
         "isActive": true,
         "description": "Red Social desarrollada en C# .NET",
         "highlights":[
-          "Red Social",
-          "C#"
+          "MVC",
+          "C#",
+          ".NET"
         ],
         "url": "https://github.com/MartinDiaz04/proyectoProgramacion2",
         "github": "https://github.com/MartinDiaz04/AplicacionMovil",
@@ -72,9 +73,9 @@
         "isActive": true,
         "description": "Diseño pizzería Domino's",
         "highlights":[
-          "Domino's",
-          "Diseño",
-          "Diseño Responsive"
+          "HTML",
+          "CSS",
+          "Web"
         ],
         "url": "https://github.com/MartinDiaz04/sitioDominos",
         "github": "https://github.com/MartinDiaz04/AplicacionMovil",
@@ -85,9 +86,9 @@
         "isActive": true,
         "description": "Diseño Wimbledon tennis",
         "highlights": [
-          "Wimbledon",
-          "Diseño",
-          "Diseño Responsive"
+          "HTML",
+          "CSS",
+          "Web"
         ],
         "url": "https://github.com/MartinDiaz04/sitioWimbledon",
         "github": "https://github.com/MartinDiaz04/AplicacionMovil",
