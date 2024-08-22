@@ -2,6 +2,7 @@ import { GrDeploy } from "react-icons/gr";
 import { FaGithub } from "react-icons/fa";
 
 const Project = ({ name, description, highlights, url, github, image }) => {
+    console.log(image)
     return (
         <div className='flex flex-col m-5 p-3 caja w-auto rounded-lg'>
             <div className="flex-grow">
@@ -29,5 +30,6 @@ const Project = ({ name, description, highlights, url, github, image }) => {
         </div>
     );
 };
+
 
 export default Project;
