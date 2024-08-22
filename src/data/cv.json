@@ -1,0 +1,136 @@
+{
+    "basics": {
+      "name": "Martín Díaz Preiero",
+      "label": "Desarrollador Full Stack Junior",
+      "image": "/public/me.webp",
+      "email": "martinpreierodiaz@gmail.com",      
+      "url": "",
+      "summary": "Soy un Desarrollador Junior Full Stack en formación, con una sólida base en desarrollo web tanto en FrontEnd como en BackEnd. Me apasiona crear soluciones eficientes, desde la implementación de APIs hasta el diseño de interfaces web interactivas. Me considero una persona comprometida, responsable y siempre enfocado en mejorar mis habilidades.",      
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "MartinDiazPreiero",
+          "url": "https://www.linkedin.com/in/martin-diaz-preiero-0786682b1/"
+        },
+        {
+          "network": "GitHub",
+          "username": "MartinDiaz04",
+          "url": "https://github.com/MartinDiaz04"
+        }
+      ]
+    },
+    "education": [
+      {
+        "id": 1,
+        "institution": "Universidad ORT Uruguay",
+        "url": "https://www.ort.edu.uy/",
+        "area": "Programador Web",
+        "startDate": "2023-03-01",
+        "endDate": "2024-08-01"
+      },
+      {
+      "id": 2,
+      "institution": "Universidad ORT Uruguay",
+      "url": "https://www.ort.edu.uy/",
+      "area": "Analista en Tecnologías de la Información",
+      "startDate": "2023-03-01",
+      "endDate": "En curso",
+      "description": "Durante la carrera he desarrollado APIs aplicando patrones de diseño, utilizando .NET y Entity Framework para la conexión con la base de datos. También he diseñado interfaces web utilizando Bootstrap, CSS, HTML, ReactJS y JavaScript."
+    }
+    ],
+    "projects": [
+      {
+        "name": "BlogDeCafe",
+        "isActive": true,
+        "description": "Blog de Cafe",
+        "highlights":[
+          "Diseño Web",
+          "JavaScript",
+          "CSS"
+        ],
+        "url": "https://blogdecafefront.netlify.app/",
+        "github": "https://github.com/MartinDiaz04"
+      },
+      {
+        "name": "Aplicación Móvil",
+        "isActive": true,
+        "description": "Aplicación móvil para contar calorías",
+        "highlights":[
+          "Aplicacion Movil",
+          "JavaScript",
+          "Ionic"
+        ],
+        "url": "https://github.com/MartinDiaz04/AplicacionMovil",
+        "github": "https://github.com/MartinDiaz04/AplicacionMovil"
+      },
+      {
+        "name": "Red Social",
+        "isActive": true,
+        "description": "Red Social desarrollada en C# .NET",
+        "highlights":[
+          "Red Social",
+          "C#"
+        ],
+        "url": "https://github.com/MartinDiaz04/proyectoProgramacion2",
+        "github": "https://github.com/MartinDiaz04/AplicacionMovil"
+      },
+      {
+        "name": "Dominos",
+        "isActive": true,
+        "description": "Diseño pizzería Domino's",
+        "highlights":[
+          "Domino's",
+          "Diseño",
+          "Diseño Responsive"
+        ],
+        "url": "https://github.com/MartinDiaz04/sitioDominos",
+        "github": "https://github.com/MartinDiaz04/AplicacionMovil"
+      },
+      {
+        "name": "Wimbledon",
+        "isActive": true,
+        "description": "Diseño Wimbledon tennis",
+        "highlights": [
+          "Wimbledon",
+          "Diseño",
+          "Diseño Responsive"
+        ],
+        "url": "https://github.com/MartinDiaz04/sitioWimbledon",
+        "github": "https://github.com/MartinDiaz04/AplicacionMovil"
+      },
+      {
+        "name": "Papeleria BackEnd",
+        "description": "Sitio para organizar una papeleria",
+        "highlights": [
+          "C#",
+          "Entity Framework",
+          ".NET"
+        ],
+        "url": "https://github.com/MartinDiaz04/ObligatorioP3_BackEnd",
+        "github": "https://github.com/MartinDiaz04/ObligatorioP3_BackEnd"
+      },
+      {
+        "name": "Papeleria FrontEnd",
+        "description": "Sitio para organizar una papeleria",
+        "highlights": [
+          "C#",
+          "MVC",
+          ".NET"
+        ],
+        "url": "https://github.com/MartinDiaz04/ObligatorioP3_FrontEnd",
+        "github": "https://github.com/MartinDiaz04/ObligatorioP3_FrontEnd"
+      },
+      {
+        "name": "Baby Tracker",
+        "description": "Sitio para agregar eventos de tu bebe",
+        "highlights": [
+          "ReactJs",
+          "JavaScript",
+          "Bootstrap"
+        ],
+        "url": "https://github.com/MartinDiaz04/Obligatorio_FrontEnd",
+        "github": "https://github.com/MartinDiaz04/Obligatorio_FrontEnd"
+      }
+
+    ]
+  }
