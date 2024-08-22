@@ -5,7 +5,7 @@ import { FaGraduationCap } from "react-icons/fa";
 const Navbar = () => {
   return (
     <div className='header mb-10'>
-      <header className="h-auto  flex items-center justify-center caja">
+      <header className="h-auto flex items-center justify-center caja">
         <div className="items-center justify-center h-auto">
           <nav className="w-auto p-5">
             <ul className="list-none sm:flex sm:items-center sm:justify-center h-auto m-auto">
