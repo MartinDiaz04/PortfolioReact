@@ -2,7 +2,7 @@
     "basics": {
       "name": "Martín Díaz Preiero",
       "label": "Desarrollador Full Stack Junior",
-      "image": "../../public/me.webp",
+      "image": "/me.webp",
       "email": "martinpreierodiaz@gmail.com",      
       "url": "",
       "github": "https://github.com/MartinDiaz04",

@@ -2,12 +2,13 @@ import { GrDeploy } from "react-icons/gr";
 import { FaGithub } from "react-icons/fa";
 
 const Project = ({ name, description, highlights, url, github, image }) => {
-    console.log(image)
     return (
         <div className='flex flex-col m-5 p-3 caja w-auto rounded-lg'>
             <div className="flex-grow">
                 <h2 className='text-3xl sm:text-5xl mt-5 text-center'>{name}</h2>
-                <img src={image} alt={name} className='w-96 mx-auto mt-5 rounded-lg shadow-md' />
+                <a href={url}>
+                    <img src={image} alt={name} className='w-96 mx-auto mt-5 rounded-lg shadow-md' />
+                </a>
                 <p className='text-xl sm:text-2xl text-center my-8 mx-auto w-auto md:w-3/4'>{description}</p>
             </div>
             <div className="flex justify-between items-center mt-5">
