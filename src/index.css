@@ -1,3 +1,46 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-family: "Oswald", sans-serif;
+    background-color: rgb(143, 157, 170);
+}
+
+.icon, h1, h2, h3, h4, h5, h6, p, a, hr{
+    color: white;
+    transition: color 0.5s ease;
+}
+.icon:hover{
+    color: rgb(86, 93, 99);
+}
+.descargarCV{
+    color: white;
+    background-color: rgb(58, 61, 65);
+    transition: background-color 0.5s ease;
+}
+.descargarCV:hover{
+    background-color:  rgb(42, 47, 51);
+}
+
+
+.tecnologias{
+    color: white;
+    transition: color 0.2s ease;
+}
+.tecnologias:hover{
+    color: rgb(58, 61, 65);
+}
+hr{
+    border: 1px solid white;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.caja{
+    background-color: rgb(86, 93, 99);
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}

@@ -1,9 +1,19 @@
+import Navbar from "./components/NavBar/Navbar"
+import AboutMe from "./components/AboutMe"
+import Studies from "./components/Studies"
+import Projects from "./components/Projects"
 
 function App() {
 
   return (
-    <div className="bg-blue-500 text-white p-4 ">
-      <h1 className="text-5xl font-bold">Hello, Tailwind CSS!</h1>
+    <div className="">
+      <Navbar/>
+      <hr/>
+      <AboutMe/>
+      <hr/>
+      <Studies/>
+      <hr/>
+      <Projects/>
     </div>
   )
 }
