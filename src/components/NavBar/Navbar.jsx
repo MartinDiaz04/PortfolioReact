@@ -4,24 +4,24 @@ import { FaGraduationCap } from "react-icons/fa";
 
 const Navbar = () => {
   return (
-    <div className='header'>
-      <header className="h-auto  flex items-center justify-center">
+    <div className='header mb-10'>
+      <header className="h-auto  flex items-center justify-center caja">
         <div className="items-center justify-center h-auto">
           <nav className="w-auto p-5">
             <ul className="list-none sm:flex sm:items-center sm:justify-center h-auto m-auto">
-              <li className="p-4 sm:my-5 list-none mx-10">
+              <li className="p-4 list-none mx-10">
                 <a href="#aboutMe" className="w-10 text-center">
-                  <FaUser className="text-5xl sm:text-6xl icon" />
+                  <FaUser className="text-4xl sm:text-5xl icon" />
                 </a>
               </li>              
-              <li className=" sm:my-5 sm:my:0 p-4 list-none mx-10">
+              <li className=" p-4 list-none mx-10">
                 <a href="#studies" className="w-10 text-center">
-                  <FaGraduationCap className="text-5xl sm:text-6xl icon" />
+                  <FaGraduationCap className="text-4xl sm:text-5xl icon" />
                 </a>
               </li>
-              <li className="p-4 sm:my-5 sm:my:0 list-none mx-10">
+              <li className="p-4 list-none mx-10">
                 <a href="#projects" className="w-10 text-center">
-                  <FaBriefcase className="text-5xl sm:text-6xl icon" />
+                  <FaBriefcase className="text-4xl sm:text-5xl icon" />
                 </a>
               </li>
             </ul>

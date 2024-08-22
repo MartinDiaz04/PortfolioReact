@@ -5,19 +5,9 @@
       "image": "/public/me.webp",
       "email": "martinpreierodiaz@gmail.com",      
       "url": "",
-      "summary": "Soy un Desarrollador Junior Full Stack en formación, con una sólida base en desarrollo web tanto en FrontEnd como en BackEnd. Me apasiona crear soluciones eficientes, desde la implementación de APIs hasta el diseño de interfaces web interactivas. Me considero una persona comprometida, responsable y siempre enfocado en mejorar mis habilidades.",      
-      "profiles": [
-        {
-          "network": "LinkedIn",
-          "username": "MartinDiazPreiero",
-          "url": "https://www.linkedin.com/in/martin-diaz-preiero-0786682b1/"
-        },
-        {
-          "network": "GitHub",
-          "username": "MartinDiaz04",
-          "url": "https://github.com/MartinDiaz04"
-        }
-      ]
+      "github": "https://github.com/MartinDiaz04",
+      "linkedin": "https://www.linkedin.com/in/martindiaz04/",
+      "summary": "Soy un Desarrollador Junior Full Stack en formación, con una sólida base en desarrollo web tanto en FrontEnd como en BackEnd. Me apasiona crear soluciones eficientes, desde la implementación de APIs hasta el diseño de interfaces web interactivas. Me considero una persona comprometida, responsable y siempre enfocado en mejorar mis habilidades."      
     },
     "education": [
       {
@@ -49,7 +39,8 @@
           "CSS"
         ],
         "url": "https://blogdecafefront.netlify.app/",
-        "github": "https://github.com/MartinDiaz04"
+        "github": "https://github.com/MartinDiaz04",
+        "image": "/public/imgs/blogCafe.png"
       },
       {
         "name": "Aplicación Móvil",
@@ -61,7 +52,8 @@
           "Ionic"
         ],
         "url": "https://github.com/MartinDiaz04/AplicacionMovil",
-        "github": "https://github.com/MartinDiaz04/AplicacionMovil"
+        "github": "https://github.com/MartinDiaz04/AplicacionMovil",
+        "image": "/public/imgs/aplicacionMovil.png"
       },
       {
         "name": "Red Social",
@@ -72,7 +64,8 @@
           "C#"
         ],
         "url": "https://github.com/MartinDiaz04/proyectoProgramacion2",
-        "github": "https://github.com/MartinDiaz04/AplicacionMovil"
+        "github": "https://github.com/MartinDiaz04/AplicacionMovil",
+        "image": "/public/imgs/proyectoProgramacion2.png"
       },
       {
         "name": "Dominos",
@@ -84,7 +77,8 @@
           "Diseño Responsive"
         ],
         "url": "https://github.com/MartinDiaz04/sitioDominos",
-        "github": "https://github.com/MartinDiaz04/AplicacionMovil"
+        "github": "https://github.com/MartinDiaz04/AplicacionMovil",
+        "image": "/public/imgs/Dominos.png"
       },
       {
         "name": "Wimbledon",
@@ -96,7 +90,8 @@
           "Diseño Responsive"
         ],
         "url": "https://github.com/MartinDiaz04/sitioWimbledon",
-        "github": "https://github.com/MartinDiaz04/AplicacionMovil"
+        "github": "https://github.com/MartinDiaz04/AplicacionMovil",
+        "image": "/public/imgs/Wimbledon.png"
       },
       {
         "name": "Papeleria BackEnd",
@@ -107,7 +102,8 @@
           ".NET"
         ],
         "url": "https://github.com/MartinDiaz04/ObligatorioP3_BackEnd",
-        "github": "https://github.com/MartinDiaz04/ObligatorioP3_BackEnd"
+        "github": "https://github.com/MartinDiaz04/ObligatorioP3_BackEnd",
+        "image": "/public/imgs/proyectoProgramacion3.png"
       },
       {
         "name": "Papeleria FrontEnd",
@@ -118,7 +114,8 @@
           ".NET"
         ],
         "url": "https://github.com/MartinDiaz04/ObligatorioP3_FrontEnd",
-        "github": "https://github.com/MartinDiaz04/ObligatorioP3_FrontEnd"
+        "github": "https://github.com/MartinDiaz04/ObligatorioP3_FrontEnd",
+        "image": "/public/imgs/proyectoProgramacion3.png"
       },
       {
         "name": "Baby Tracker",
@@ -129,7 +126,8 @@
           "Bootstrap"
         ],
         "url": "https://github.com/MartinDiaz04/Obligatorio_FrontEnd",
-        "github": "https://github.com/MartinDiaz04/Obligatorio_FrontEnd"
+        "github": "https://github.com/MartinDiaz04/Obligatorio_FrontEnd",
+        "image": "/public/imgs/BabyTracker.png"
       }
 
     ]
