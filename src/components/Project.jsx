@@ -5,7 +5,7 @@ const Project = ({ name, description, highlights, url, github, image }) => {
     return (
         <div className='flex flex-col m-5 p-3 caja w-auto rounded-lg'>
             <div className="flex-grow">
-                <h2 className='text-3xl sm:text-5xl mt-5 text-center'>{name}</h2>
+                <h2 className='text-2xl sm:text-4xl mt-5 text-center'>{name}</h2>
                 <a href={url}>
                     <img src={image} alt={name} className='w-96 mx-auto mt-5 rounded-lg shadow-md' />
                 </a>
