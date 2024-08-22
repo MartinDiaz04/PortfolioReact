@@ -40,7 +40,7 @@
         ],
         "url": "https://blogdecafefront.netlify.app/",
         "github": "https://github.com/MartinDiaz04",
-        "image": "../../public/imgs/blogcafe.webp"
+        "image": "../../public/imgs/blogcafe.png"
       },
       {
         "name": "Aplicación Móvil",
@@ -53,7 +53,7 @@
         ],
         "url": "https://github.com/MartinDiaz04/AplicacionMovil",
         "github": "https://github.com/MartinDiaz04/AplicacionMovil",
-        "image": "../../public/imgs/aplicacionmovil.webp"
+        "image": "../../public/imgs/aplicacionmovil.png"
       },
       {
         "name": "Red Social",
@@ -66,7 +66,7 @@
         ],
         "url": "https://github.com/MartinDiaz04/proyectoProgramacion2",
         "github": "https://github.com/MartinDiaz04/AplicacionMovil",
-        "image": "../../public/imgs/proyectoprogramaciondos.webp"
+        "image": "../../public/imgs/proyectoprogramaciondos.png"
       },
       {
         "name": "Dominos",
@@ -79,7 +79,7 @@
         ],
         "url": "https://github.com/MartinDiaz04/sitioDominos",
         "github": "https://github.com/MartinDiaz04/AplicacionMovil",
-        "image": "../../public/imgs/dominos.webp"
+        "image": "../../public/imgs/dominos.png"
       },
       {
         "name": "Wimbledon",
@@ -92,7 +92,7 @@
         ],
         "url": "https://github.com/MartinDiaz04/sitioWimbledon",
         "github": "https://github.com/MartinDiaz04/AplicacionMovil",
-        "image": "../../public/imgs/wimbledon.webp"
+        "image": "../../public/imgs/wimbledon.png"
       },
       {
         "name": "Papeleria BackEnd",
@@ -104,7 +104,7 @@
         ],
         "url": "https://github.com/MartinDiaz04/ObligatorioP3_BackEnd",
         "github": "https://github.com/MartinDiaz04/ObligatorioP3_BackEnd",
-        "image": "../../public/imgs/proyectoprogramaciontres.webp"
+        "image": "../../public/imgs/proyectoprogramaciontres.png"
       },
       {
         "name": "Papeleria FrontEnd",
@@ -116,7 +116,7 @@
         ],
         "url": "https://github.com/MartinDiaz04/ObligatorioP3_FrontEnd",
         "github": "https://github.com/MartinDiaz04/ObligatorioP3_FrontEnd",
-        "image": "../../public/imgs/proyectoprogramaciontres.webp"
+        "image": "../../public/imgs/proyectoprogramaciontres.png"
       },
       {
         "name": "Baby Tracker",
@@ -128,7 +128,7 @@
         ],
         "url": "https://github.com/MartinDiaz04/Obligatorio_FrontEnd",
         "github": "https://github.com/MartinDiaz04/Obligatorio_FrontEnd",
-        "image": "../../public/imgs/babytracker.webp"
+        "image": "../../public/imgs/babytracker.png"
       }
 
     ]
