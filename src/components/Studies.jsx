@@ -14,7 +14,7 @@ import { FaCss3 } from "react-icons/fa";
 const Studies = () => {  
   return (
     <div id='studies' className='flex items-center justify-center my-10'>
-      <div className='text-center sm:w-4/6 w-5/6 caja p-8'>
+      <div className='text-center md:w-4/6 w-5/6 caja p-8'>
         <h1 className='text-3xl sm:text-4xl my-5'>Educación</h1>
         {data.education.map(e => <Study key={e.id} {...e} />)}
         <h3 className='text-3xl sm:text-4xl my-5'>Tecnologías</h3>
