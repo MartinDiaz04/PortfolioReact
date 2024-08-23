@@ -3,11 +3,13 @@ import AboutMe from "./components/AboutMe"
 import Studies from "./components/Studies"
 import Projects from "./components/Projects"
 import Footer from "./components/Footer"
+import {store} from "./store/store"
+import {Provider} from "react-redux"
 
 function App() {
 
   return (
-    <div className="">
+    <Provider store={store}>
       <Navbar/>
       <hr/>
       <AboutMe/>
@@ -17,7 +19,7 @@ function App() {
       <Projects/>
       <hr/>
       <Footer/>
-    </div>
+    </Provider>
   )
 }
 

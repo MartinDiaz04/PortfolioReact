@@ -95,7 +95,7 @@
         "image": "/imgs/wimbledon.png"
       },
       {
-        "name": "Papeleria BackEnd",
+        "name": "Papelería BackEnd",
         "description": "Sitio para organizar una papeleria",
         "highlights": [
           "C#",
@@ -107,8 +107,8 @@
         "image": "/imgs/proyectoprogramaciontres.png"
       },
       {
-        "name": "Papeleria FrontEnd",
-        "description": "Sitio para organizar una papeleria",
+        "name": "Papelería FrontEnd",
+        "description": "Sitio para organizar una papelería",
         "highlights": [
           "C#",
           "MVC",
@@ -120,7 +120,7 @@
       },
       {
         "name": "Baby Tracker",
-        "description": "Sitio para agregar eventos de tu bebe",
+        "description": "Sitio para agregar eventos de tu bebé",
         "highlights": [
           "ReactJs",
           "JavaScript",
