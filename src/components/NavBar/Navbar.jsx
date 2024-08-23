@@ -16,7 +16,7 @@ const Navbar = () => {
 
   return (
     <div className='header mb-10'>
-      <header className="h-auto xl:h-20 flex flex-col sm:flex-row items-center justify-between caja">        
+      <header className="h-auto flex flex-col sm:flex-row items-center justify-between caja">        
         <div className="w-full">
           <nav className="w-full sm:w-auto p-5">
             <ul className="list-none flex flex-col sm:flex-row items-center justify-center h-auto m-auto">
