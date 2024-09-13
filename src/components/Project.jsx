@@ -25,6 +25,7 @@ const Project = ({ name, description, highlights, url, github, image }) => {
                     </a>
                     <a href={github} className="iconsProject">
                         <FaGithub className='text-2xl' />
+                        
                     </a>
                 </div>
             </div>
